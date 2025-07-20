@@ -1,4 +1,4 @@
 Vencord link
 ```
-https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
+https://raw.githubusercontent.com/MintoFox/BoykisserTranslucence/refs/heads/master/Translucence.theme.css
 ```
